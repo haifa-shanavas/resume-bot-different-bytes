@@ -1,0 +1,41 @@
+HAIFA SHANAVAS
++91 8943924570  |  haifashanavaz@gmail.com  |  LinkedIn Profile  |  Aluva, Kerala, India
+EDUCATION
+Muthoot Institute of Science and Technology	2026
+Bachelor of Technology (BTech) in Artificial Intelligence and Data Science, CGPA 7.66	
+Boys H S S Aluva	2021
+Higher Secondary Education, 95%	
+Nirmala H S S Aluva	2020
+Secondary Education, 100%	
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, C
+Deep Learning & ML Frameworks: TensorFlow, PyTorch, Keras, OpenCV
+NLP & LLM Technologies: Large Language Models (LLMs), Natural Language Processing (NLP), LangChain, Hugging Face, Vector Databases, Retrieval-Augmented Generation (RAG), Prompt Engineering, LLM Fine-Tuning, LLM Quantization, Transformer Models
+Data Science & Statistics: Exploratory Data Analysis (EDA), Probability, Statistics, Predictive Modeling, Feature Engineering
+Tools & Platforms: Git, Docker, Cloud Platforms (AWS, Azure, GCP)
+WORK EXPERIENCE
+AI/ML Intern, PanApps International Pvt. Ltd.	June 2025
+    • Developed and evaluated machine learning models for prediction, classification, and clustering tasks as part of applied data science projects.
+    • Built semantic search and embedding-based solutions to support information retrieval and data-driven insights.
+    • Gained hands-on experience with Retrieval-Augmented Generation (RAG) pipelines and large language models, including prompt engineering and vector-based retrieval.
+    • Collaborated with team members to translate technical findings into clear, actionable outputs.
+PROJECTS
+DeepShield: Deepfake Detection System	CNNs, TensorFlow, Keras, OpenCV
+    • Designed and implemented a deep learning system using Convolutional Neural Networks (CNNs) to analyze image and video content and detect deepfake manipulations.
+    • Developed a feature to highlight manipulated regions using bounding boxes, incorporating facial landmark detection and temporal consistency analysis.
+SpeakEasy: Smart Home Assistant for Dysarthric Speech	ASR, Transformer Models, Python, IoT
+    • Built a personalized smart home assistant enabling users with dysarthria to control devices through impaired speech.
+    • Implemented a fine-tuned speech recognition model using transformer architectures and integrated voice commands with home automation systems.
+Meme Bot	Stable Diffusion XL, FAISS, Sentence Embeddings, Gradio
+    • Built an AI-powered meme generator producing ultra-HD, Pixar-style memes using Stable Diffusion XL for crisp, aesthetic outputs.
+    • Implemented automatic duplicate-caption detection using sentence embeddings and FAISS to keep generated meme ideas unique.
+    • Designed a simple Gradio interface for effortless meme generation and added a 👍/👎 feedback system to iteratively improve output quality.
+Regex Extractor	Python, Streamlit, Regular Expressions
+    • Built a Streamlit-based Regex Extractor Hub that identifies and extracts hashtags, email usernames, book titles, and dates from text using Regular Expressions.
+    • Designed an intuitive, real-time extraction interface (hashtags, email usernames, book titles, dd-mm-yyyy dates) with built-in regex explanations to simplify text processing and improve learning.
+CERTIFICATIONS
+    • Workshop: GenAI in Action - Develop, Fine-Tune, and Deploy AI Solutions, Iskew Learning
+    • Google Cloud Foundation Courses, Google, 2023
+    • Python for Data Science (Elite), NPTEL, 2024
+    • Data Science for Engineers (Elite), NPTEL, 2025
+    • Cambridge English Business Certificate, B2
